@@ -21,6 +21,6 @@ let abobus = a = aboba
 print (abobus)
 ```
 
-.[this is link(no)].(http://github.com)
+.[this is link(no)](http://github.com).
 
-![this is img].(https://avatars.githubusercontent.com/u/172177185?v=4&size=64)
+![this is img](https://avatars.githubusercontent.com/u/172177185?v=4&size=64).
